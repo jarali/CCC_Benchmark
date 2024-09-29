@@ -1,0 +1,14 @@
+# Format: path_to_benchmark,type,datasets,waittime_in_seconds,num_executions
+systeminfo,standard,,5,1
+pyperformance math,standard,,10,1
+pyperformance regex,standard,,10,1
+fio_1m_sequentialread,standard,,10,1
+fio_1m_sequentialwrite,standard,,10,1
+fio_1m_randomread,standard,,10,1
+fio_1m_randomwrite,standard,,10,1
+SimplePrime.ipynb,kaggle_notebook,,20,3
+credit-fraud-dealing-with-imbalanced-datasets.ipynb,kaggle_notebook,mlg-ulb/creditcardfraud,20,1
+getting-started-with-a-movie-recommendation-system.ipynb,kaggle_notebook,rounakbanik/the-movies-dataset;tmdb/tmdb-movie-metadata,20,1
+airline-delay-notebook.ipynb,kaggle_notebook,usdot/flight-delays,20,1
+google-play-store-analysis.ipynb,kaggle_notebook,gauthamp10/google-playstore-apps,20,1
+energy-eda-segmentation-and-prediction.ipynb,kaggle_notebook,lucabasa/dutch-energy,20,3

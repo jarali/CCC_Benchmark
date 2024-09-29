@@ -1,0 +1,14 @@
+datasets/
+venv/
+Results*/
+Graphs
+fio_test*
+Secrets.txt
+.ipynb_checkpoints
+dask-worker-space
+
+# Ignore everything in notebooks folder and subdirectories...
+notebooks/**
+
+# ...but do not ignore .ipynb files in notebooks folder
+!notebooks/**/*.ipynb

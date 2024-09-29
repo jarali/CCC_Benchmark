@@ -1,0 +1,26 @@
+# Format: path_to_benchmark,type,datasets,waittime_in_seconds,num_executions
+systeminfo,standard,,5,1
+fio_4k_sequentialread,standard,,10,1
+fio_4k_sequentialwrite,standard,,10,1
+fio_4k_randomread,standard,,10,1
+fio_4k_randomwrite,standard,,10,1
+fio_64k_sequentialread,standard,,10,1
+fio_64k_sequentialwrite,standard,,10,1
+fio_64k_randomread,standard,,10,1
+fio_64k_randomwrite,standard,,10,1
+fio_1m_sequentialread,standard,,10,1
+fio_1m_sequentialwrite,standard,,10,1
+fio_1m_randomread,standard,,10,1
+fio_1m_randomwrite,standard,,10,1
+SimplePrime.ipynb,kaggle_notebook,,20,5
+credit-fraud-dealing-with-imbalanced-datasets.ipynb,kaggle_notebook,mlg-ulb/creditcardfraud,20,1
+twitter-sentiment-analysis.ipynb,kaggle_notebook,kazanova/sentiment140,20,1
+pneumonia-detection-using-cnn-92-6-accuracy.ipynb,kaggle_notebook,paultimothymooney/chest-xray-pneumonia,20,1
+lstm-sentiment-analysis-keras.ipynb,kaggle_notebook,crowdflower/first-gop-debate-twitter-sentiment,20,1
+getting-started-with-a-movie-recommendation-system.ipynb,kaggle_notebook,rounakbanik/the-movies-dataset;tmdb/tmdb-movie-metadata,20,2
+airline-delay-notebook.ipynb,kaggle_notebook,usdot/flight-delays,20,1
+e-commerce-eda-purchase-classification.ipynb,kaggle_notebook,retailrocket/ecommerce-dataset,20,1
+google-play-store-analysis.ipynb,kaggle_notebook,gauthamp10/google-playstore-apps,20,1
+creditcard-fraud-balance-is-key-feat-pycaret.ipynb,kaggle_notebook,mlg-ulb/creditcardfraud;kartik2112/fraud-detection;aniruddhachoudhury/creditcard-fraud-detection,20,1
+energy-eda-segmentation-and-prediction.ipynb,kaggle_notebook,lucabasa/dutch-energy,20,3
+pyperformance default,standard,,10,1

@@ -1,0 +1,13 @@
+System Information:
+System: Linux
+Node Name: vmtdx-DC2as-v5-noDiks
+Release: 6.5.0-1025-azure
+Version: #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024
+Machine: x86_64
+Processor: x86_64
+Physical Cores: 1
+Total Cores: 2
+Max Frequency (MHz): 0.0
+Total Memory (GB): 7.29
+Available Memory (GB): 6.63
+Memory Usage (%): 9.0
